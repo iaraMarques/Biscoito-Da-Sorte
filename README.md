@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Jogo-Da-Adivinhacao)
+- [Visite o projeto online](https://iaraMarques.github.io/Biscoito-Da-Sorte)
 
 <br/>
 
